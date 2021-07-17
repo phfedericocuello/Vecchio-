@@ -1,0 +1,16 @@
+[{ "id": 1, "title": "remera negra", "precio": 1200, "thumbnailUrl": "media/remera.jpg" },
+    { "id": 2, "title": "remera blanca", "precio": 1200, "thumbnailUrl": "media/remeraBlanca.jpg" },
+    { "id": 3, "title": "remera roja", "precio": 1000, "thumbnailUrl": "media/remeraRoja.jpg" },
+    { "id": 4, "title": "remera azul", "precio": 1000, "thumbnailUrl": "media/remeraAzul.jpg" },
+    { "id": 5, "title": "gorro marron", "precio": 700, "thumbnailUrl": "media/gorro.jpg" },
+    { "id": 6, "title": "gorro gris", "precio": 700, "thumbnailUrl": "media/gorroGris.jpg" },
+    { "id": 7, "title": "buzo naza", "precio": 3500, "thumbnailUrl": "media/buzo.jpg" },
+    { "id": 8, "title": "buzo negro", "precio": 3000, "thumbnailUrl": "media/buzoNegro.jpg" },
+    { "id": 9, "title": "buzo azul", "precio": 3000, "thumbnailUrl": "media/buzoAzul.jpg" },
+    { "id": 10, "title": "pantalon negro", "precio": 1500, "thumbnailUrl": "media/pantalon.jpg" },
+    { "id": 11, "title": "pantalon blanco", "precio": 1500, "thumbnailUrl": "media/pantalonBlanco.jpg" },
+    { "id": 12, "title": "pantalon jean", "precio": 1300, "thumbnailUrl": "media/pantalonJean.jpg" },
+    { "id": 13, "title": "zapatillas negras", "precio": 5000, "thumbnailUrl": "media/zapatillas.jpg" },
+    { "id": 14, "title": "zapatillas blancas", "precio": 4500, "thumbnailUrl": "media/zapatillasBlancas.jpg" },
+    { "id": 15, "title": "zapatillas colores", "precio": 4000, "thumbnailUrl": "media/zapatillasColores.jpg" }
+]

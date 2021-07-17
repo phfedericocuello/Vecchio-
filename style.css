@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(media/Fondo-10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    max-height: 222px;
+    width: auto;
+}
+
+.container {
+    font-size: 150%;
+}
+
+.row {
+    margin-left: 7rem !important;
+}
+
+#toast-body {
+    text-align: center;
+}
+
+.btn-info a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    bottom: 0;
+    margin-top: 10%;
+}
+
+footer p {
+    margin-bottom: 0 !important;
+    text-align: center;
+}
